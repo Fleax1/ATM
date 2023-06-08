@@ -106,3 +106,9 @@ Makefile
 Terminal UI
 Memory management
 Pipes and child processes
+
+# Build 
+
+```sh
+gcc auth.c header.h main.c system.c
+```
